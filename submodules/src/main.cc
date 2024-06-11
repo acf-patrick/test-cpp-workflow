@@ -1,6 +1,6 @@
 #include "lib.h"
 
 int main() {
-    print_hello_world();
+    print_project_details();
     return 0;
 }

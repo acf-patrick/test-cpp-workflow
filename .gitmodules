@@ -1,0 +1,3 @@
+[submodule "submodules/external/json"]
+	path = submodules/external/json
+	url = https://github.com/nlohmann/json
